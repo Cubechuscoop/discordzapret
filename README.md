@@ -218,3 +218,4 @@ sc delete название_из_первого_шага
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
  
  
+ 
